@@ -1,0 +1,57 @@
+
+body {  
+  content: "";
+  position: fixed;
+  background: #525252 url("Assets/Images/ROAD.jpeg") center;
+  background-size: cover;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  z-index: -1;
+} 
+
+.nav-bar{
+  color: whitesmoke;
+}
+
+.nav-link{
+  color: white;
+
+}
+
+.navbar-brand{
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: white;
+  cursor: pointer;
+}
+
+.main{
+  background-size: auto;
+  width: 100%;
+  height: 100vh;
+}
+.main h3{
+  font-size: 4.4rem;
+  font-weight: 700;
+  color: white;
+}
+.main h6{
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  line-height: 1;
+  width: 40%;
+  color: white;
+}
+
+.about h1{font-size: 4.4rem;
+  font-weight: 700;
+  color: white;
+}
+
+.about h4{
+  font-size: 2.4rem;
+  font-weight: 200;
+  color: white;
+}
